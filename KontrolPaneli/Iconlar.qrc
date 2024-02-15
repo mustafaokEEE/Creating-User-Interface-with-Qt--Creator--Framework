@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Iconlar">
+        <file>Iconlar/left-arrow.png</file>
+        <file>Iconlar/play-button-arrowhead.png</file>
+        <file>Iconlar/close.png</file>
+        <file>Iconlar/home.png</file>
+        <file>Iconlar/home-button.png</file>
+        <file>Iconlar/pause.png</file>
+        <file>Iconlar/power-on.png</file>
+        <file>Iconlar/search.png</file>
+        <file>Iconlar/pngwing.com.png</file>
+        <file>Iconlar/sicaklik.com.png</file>
+    </qresource>
+</RCC>

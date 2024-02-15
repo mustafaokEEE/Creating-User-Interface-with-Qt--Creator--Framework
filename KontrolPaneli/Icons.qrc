@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Yeni klasor/680uf-35v-kondansator-kondansator-cin-robo90-44659-22-O.jpg</file>
+        <file>Yeni klasor/680uf-35v-kondansator-kondansator-cin-robo90-44659-22-O.png</file>
+        <file>Yeni klasor/direnc.png</file>
+        <file>Yeni klasor/home-button.png</file>
+        <file>Yeni klasor/left-arrow.png</file>
+        <file>Yeni klasor/play-button-arrowhead.png</file>
+        <file>Yeni klasor/power-on.png</file>
+        <file>Yeni klasor/Servo.JPG</file>
+        <file>Yeni klasor/sıcaklık.JPG</file>
+        <file>Yeni klasor/transistor.png</file>
+    </qresource>
+</RCC>
